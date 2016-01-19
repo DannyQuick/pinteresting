@@ -4,3 +4,5 @@ This is the Pinteresting sample application for
 [*One Month Rails*] (http://onemonthrails.com)
 
 by [Danny Quick] (http://dannyquick.nyc)
+
+Living at the intersection of culture and technology, but on this first application, mostly technology :)
